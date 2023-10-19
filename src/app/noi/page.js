@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Proposte() {
 	return (
-		<main className="flex min-h-screen flex-col items-center justify-evenly p-24">
+		<main className="flex min-h-screen flex-col items-center justify-evenly lg:p-24">
 			<h1 className="text-center text-2xl font-bold">Noi</h1>
 			<p className="flex p-4 justify-center w-full text-center place-items-center">
 				Siamo Alpha e siamo studenti come voi. Passiamo come voi 32 ore

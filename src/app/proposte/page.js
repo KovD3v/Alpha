@@ -2,7 +2,7 @@ import Item from "@/components/GridItem";
 
 export default function Proposte() {
 	return (
-		<main className="flex min-h-screen flex-col items-center justify-between p-24">
+		<main className="flex min-h-screen flex-col items-center justify-between lg:p-24">
 			<h1 className="text-center text-2xl font-bold">Proposte</h1>
 			<div className="grid grid-cols-1 md:grid-cols-4 gap-4 p-4 justify-center w-full text-center place-items-center">
 				<Item
